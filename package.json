@@ -12,7 +12,7 @@
   "author": "Alex Antolin",
   "license": "MIT",
   "devDependencies": {
-    "electron-packager": "^8.7.0",
+    "electron-packager": "^16.0.0",
     "electron-prebuilt": "^1.4.13",
     "es6-shim": "^0.34.0",
     "ts-loader": "^0.7.2",
@@ -20,7 +20,7 @@
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0",
     "electron": "^1.4.15",
-    "electron-builder": "^12.3.1"
+    "electron-builder": "^23.6.0"
   },
   "dependencies": {
     "es6-shim": "^0.35.0",
