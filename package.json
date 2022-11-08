@@ -15,9 +15,9 @@
     "electron-packager": "^8.7.0",
     "electron-prebuilt": "^1.4.13",
     "es6-shim": "^0.34.0",
-    "ts-loader": "^0.7.2",
+    "ts-loader": "^9.4.1",
     "typescript": "^1.7.3",
-    "webpack": "^1.12.9",
+    "webpack": "^5.74.0",
     "webpack-dev-server": "^1.14.0",
     "electron": "^1.4.15",
     "electron-builder": "^12.3.1"
